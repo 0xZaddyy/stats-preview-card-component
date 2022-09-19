@@ -1,0 +1,21 @@
+body{
+    height: 100vh;
+    position: relative;
+    background-color: rgba(21, 6, 50, 0.93);
+    display: flex;
+    margin: 0;
+}
+
+
+#main{
+    position: relative;
+}
+
+.zaza{
+    background-image: purple;
+
+}
+
+.zaza-xx{
+    display: none;
+}
